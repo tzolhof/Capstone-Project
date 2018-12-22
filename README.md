@@ -12,8 +12,9 @@ The repository includes:
 
 * this README file;
 * the processed.cleveland.data.txt file, which contains the data that will be used to train the model;
-* the proposal.pdf file, with the project proposal details.
+* the proposal.pdf file, with the project proposal details;
+* the Requirements.txt, which contains a list of the libraries/packages and environment versions used in the project.
 
 By Tatiana Zolhof Panisset
 
-December 20, 2018
+December 22, 2018
