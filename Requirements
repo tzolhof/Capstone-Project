@@ -1,5 +1,6 @@
 anaconda-client - 1.7.2
 anaconda-navigator - 1.9.2
+ipython - 5.8.0
 jupyter-client - 5.2.3
 jupyter-console - 5.2.0
 keras - 2.2.4
