@@ -13,8 +13,11 @@ The repository includes:
 * this README file;
 * the processed.cleveland.data.txt file, which contains the data that will be used to train the model;
 * the proposal.pdf file, with the project proposal details;
-* the Requirements.txt, which contains a list of the libraries/packages and environment versions used in the project.
+* the Requirements.txt, which contains a list of the libraries/packages and environment versions used in the project;
+* the report.pdf file, including the Definition, Analysis, Methodology, Results, and Conclusion of the project;
+* the Heart_Disease_Capstone.ipynb, with the Python Notebook of the project's implementation;
+* the Heart_Disease_Capstone.html, as an html version of the Python Notebook mentioned above.
 
 By Tatiana Zolhof Panisset
 
-December 22, 2018
+December 28, 2018
